@@ -2,7 +2,7 @@
 title: Valores
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Invertir en la formación de los jóvnes
+  - heading: Invertir en la formación de los jóvenes
     text: >
       Queremos empoderar verdaderamente a las comunidades para que ofrezcan
       trabajo de calidad. Es por eso que dedicamos el 20 % de nuestras tiempo en

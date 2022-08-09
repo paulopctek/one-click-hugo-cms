@@ -9,6 +9,6 @@ Nos agradaría escuchar sus ideas.
 
 <h3 class="f4 b lh-title mb2">Cómo ubicarnos…?</h3>
 
-Whatsapp +1 305 570 0149
+Whatsapp [+1 305 570 0149](https://api.whatsapp.com/send?phone=13055700149)
 
-Correo: contacto@paulopctek.net
+Correo: [contacto@paulopctek.net](mailto:contacto@paulopctek.net)

@@ -1,6 +1,6 @@
 ---
 title: Valores
-image: /img/about-jumbotron.jpg
+image: img/blog-flavor_wheel.jpg
 values:
   - heading: Invertir en la formación de los jóvenes
     text: >
